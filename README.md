@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kosala Wijesinghe</h1>
-<h3 align="center">Hi! I'm Kosala.Cyber Security Undergraduate at SLIIT</h3>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kosala Wijesinghe</h1>
+<h3 align="center">Cyber Security Undergraduate at SLIIT</h3>
 
 
 <table align="center">
