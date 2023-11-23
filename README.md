@@ -4,7 +4,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="80%" align="left">
+<td width="400" align="left">
 
 - 🌱 I’m currently learning **Python**
 
@@ -15,7 +15,7 @@
 </td>
 <td>
 
-  <img align="right" alt="GIF" height="200px" width="360" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+  <img align="right" alt="GIF" height="200" width="360" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
   
   </td>
