@@ -6,8 +6,6 @@
 <tr border="none">
 <td width="400" align="left">
 
-- 🌱 I’m currently learning **Python**
-
 - 🎓 I'm an Undergraduate at **SLIIT**
 
 - 📫 How to reach me **kosalawi36@gmail.com**
