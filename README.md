@@ -1,23 +1,22 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Kosala Wijesinghe</h1>
 <h3 align="center">Cyber Security Undergraduate</h3>
 
-
 <table align="center">
 <tr border="none">
-<td width="400" align="left">
+<td width="400" height="100" align="left">
 
-- 🎓 I'm an Undergraduate at **SLIIT**
 
-- 📫 How to reach me **kosalawi36@gmail.com**
+- 🎓 I'm an Undergraduate at **SLIIT** 
+- 📫 Email me @ **kosalawi36@gmail.com**
 
-</td>
+<!-- </td>
 <td>
 
   <img align="right" alt="GIF" height="200" width="360" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
   
   </td>
-</tr>
+</tr>   -->
 </table>
 
 
